@@ -1,3 +1,3 @@
 # supercars
 Client major Project (Supercars Garage) NY City
-front page and blueprint Designed & Developed by @Savage_arun
+landing page and services Page's are Designed & Developed by @Savage_arun
